@@ -40,12 +40,7 @@
 
 **Phân công công việc**:
 - **Backend**:
-  - Quốc: `auth`, `booking`, `payment`
-  - Lực: `movie`, `genre`, `movieGenre`
-  - Bảo Anh: `promotion`, `review`, `showTime`, `upload`
 - **Frontend**:
-  - Bảo: `Admin`, `movie`, `user`
-  - Nam: `Auth`, `booking`, `showtime`
 
 ---
 
@@ -80,8 +75,9 @@ Dưới đây là các bước để clone repository, set up, và làm việc t
 ### 1. Clone Dự Án
 Clone mã nguồn từ repository:
 ```bash
-git clone https://github.com/BanhCute/DatLichXemPhim_Group.git
-cd DatLichXemPhim_Group
+git clone https://github.com/linhnguyen-design/DatLichXemPhim.git
+cd DatLichXemPhim
+
 ```
 
 ### 2. Tạo Nhánh Riêng Để Làm Việc
@@ -160,12 +156,7 @@ npm start
 
 ### 5. Phát Triển Thêm
 - **Backend**:
-  - Quốc: Hoàn thiện `auth`, `booking`, `payment` APIs.
-  - Lực: Hoàn thiện `movie`, `genre`, `movieGenre` APIs.
-  - Bảo Anh: Hoàn thiện `promotion`, `review`, `showTime`, `upload` APIs.
 - **Frontend**:
-  - Bảo: Thiết kế các trang `Admin`, `movie`, `user`.
-  - Nam: Thiết kế các trang `Auth`, `booking`, `showtime`.
 
 ### 6. Commit Và Đẩy Code Lên Nhánh Của Bạn
 - Sau khi phát triển, commit và đẩy lên:
@@ -317,16 +308,8 @@ Nếu bạn gặp vấn đề hoặc muốn bổ sung tính năng, hãy tạo is
 ---
 
 ## 👥 Đóng Góp
-- [BanhCute](https://github.com/BanhCute) (Trưởng nhóm)
-- Quốc (Backend: Auth, Booking, Payment)
-- Lực (Backend: Movie, Genre, MovieGenre)
-- Bảo Anh (Backend: Promotion, Review, ShowTime, Upload)
-- Bảo (Frontend: Admin, Movie, User)
-- Nam (Frontend: Auth, Booking, ShowTime)
-
 ---
 
 **Dự Án Đặt Lịch Xem Phim** là một dự án nhóm cho môn học, nhằm thực hành quy trình làm việc nhóm với Git và Jira. Cảm ơn bạn đã tham gia! 🎥
 =======
 # DatLichXemPhim
->>>>>>> b76e90c54af5796af7b1ce7f7f8e6f4b20ae70e7
