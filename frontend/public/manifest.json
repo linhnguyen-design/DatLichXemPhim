@@ -1,0 +1,26 @@
+{
+  "short_name": "MovieApp",
+  "name": "Ứng Dụng Đặt Lịch Xem Phim",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "cinema192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "cinema512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/home",
+  "display": "standalone",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "description": "Ứng dụng đặt lịch xem phim trực tuyến: tìm phim, chọn suất chiếu, đặt ghế và thanh toán dễ dàng."
+}
