@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Dự Án Đặt Lịch Xem Phim (Nhóm)
 
 [![Status](https://img.shields.io/badge/Status-Đang%20Phát%20Triển-brightgreen)](https://github.com/BanhCute/DatLichXemPhim_Group)
@@ -326,3 +327,6 @@ Nếu bạn gặp vấn đề hoặc muốn bổ sung tính năng, hãy tạo is
 ---
 
 **Dự Án Đặt Lịch Xem Phim** là một dự án nhóm cho môn học, nhằm thực hành quy trình làm việc nhóm với Git và Jira. Cảm ơn bạn đã tham gia! 🎥
+=======
+# DatLichXemPhim
+>>>>>>> b76e90c54af5796af7b1ce7f7f8e6f4b20ae70e7
