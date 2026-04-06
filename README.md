@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 🎬 Dự Án Đặt Lịch Xem Phim (Nhóm)
+# 🎬 Dự Án Đặt Lịch Xem Phim 
 
 [![Status](https://img.shields.io/badge/Status-Đang%20Phát%20Triển-brightgreen)](https://github.com/BanhCute/DatLichXemPhim_Group)
 [![React](https://img.shields.io/badge/Frontend-React-blue)](https://reactjs.org/)
